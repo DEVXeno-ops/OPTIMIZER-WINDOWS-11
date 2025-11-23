@@ -106,6 +106,6 @@ MIT License — free to use, modify, and distribute.
 
 ## 💬 Credits
 
-Created by **AIME KSE** with assistance from ChatGPT.  
+Created by **Xeno** 
 Optimized and tested for **Windows 11**.
 
